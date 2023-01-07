@@ -15,4 +15,4 @@ Esse foi um projeto de aprendizado desenvolvido durante o 4º período do curso 
 ## 👥 Colaboradores
 
 Rafael Dutra    - https://github.com/Rafael-Dutra-Dev
-Iara Silva Neto - 
+Iara Silva Neto - https://github.com/iarasilnet
