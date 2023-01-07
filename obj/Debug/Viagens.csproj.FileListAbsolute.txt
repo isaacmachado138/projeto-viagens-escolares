@@ -1,0 +1,268 @@
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.csproj.AssemblyReference.cache
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.csproj.GenerateResource.cache
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.csproj.CoreCompileInputs.cache
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.EditarAluno.resources
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.EditarProfessores.resources
+C:\Users\Dutra\Desktop\Viagens\Viagens\bin\Debug\Viagens.exe.config
+C:\Users\Dutra\Desktop\Viagens\Viagens\bin\Debug\Viagens.exe
+C:\Users\Dutra\Desktop\Viagens\Viagens\bin\Debug\Viagens.pdb
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.exe
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.pdb
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.Principal.resources
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.CadProfessores.resources
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.CadVisitantes.resources
+C:\Users\Dutra\Desktop\Viagens\Viagens\obj\Debug\Viagens.CadVisitaTecnica.resources
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\bin\Debug\Viagens.exe.config
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\bin\Debug\Viagens.exe
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\bin\Debug\Viagens.pdb
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.csproj.AssemblyReference.cache
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.CadProfessores.resources
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.CadVisitantes.resources
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.CadVisitaTecnica.resources
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.EditarAluno.resources
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.EditarProfessores.resources
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.Principal.resources
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.Properties.Resources.resources
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.csproj.GenerateResource.cache
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.csproj.CoreCompileInputs.cache
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.exe
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.pdb
+C:\Users\RD\Desktop\LIXO\Viagens\Viagens\Viagens\obj\Debug\Viagens.relatorios.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Viagens.exe.config
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Viagens.exe
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Viagens.pdb
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\EnvDTE.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\stdole.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.csproj.AssemblyReference.cache
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.CadProfessores.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.CadVisitantes.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.CadVisitaTecnica.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.EditarAluno.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.EditarProfessores.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.Principal.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.Properties.Resources.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.relatorios.resources
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.csproj.GenerateResource.cache
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.csproj.CopyComplete
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.exe
+C:\Users\55519\Desktop\facul\Viagens atualizado\obj\Debug\Viagens.pdb
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Viagens.exe.config
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Viagens.exe
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Viagens.pdb
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.AssemblyReference.cache
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.SuggestedBindingRedirects.cache
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.CadProfessores.resources
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.CadVisitantes.resources
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.CadVisitaTecnica.resources
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.EditarAluno.resources
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.EditarProfessores.resources
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.Principal.resources
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.Properties.Resources.resources
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.relatorios.resources
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.GenerateResource.cache
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.CoreCompileInputs.cache
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.CopyComplete
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.exe
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.pdb
+E:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.Form1.resources
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\EnvDTE.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\stdole.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.MSXML.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.AssemblyReference.cache
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.SuggestedBindingRedirects.cache
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.CadProfessores.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.CadVisitantes.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.CadVisitaTecnica.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.EditarAluno.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.EditarProfessores.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.Form1.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.Principal.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.Properties.Resources.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.relatorios.resources
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.GenerateResource.cache
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.CoreCompileInputs.cache
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.exe
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.pdb
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Viagens.exe.config
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Viagens.exe
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Viagens.pdb
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\EnvDTE.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\stdole.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Viagens atualizado\Viagens atualizado\obj\Debug\Viagens.csproj.CopyComplete
